@@ -1,0 +1,12 @@
+#/etc/logrotation.d/nagios
+
+
+
+/var/log/nagios3/*.log{
+	daily
+	missingok
+	rotate 50
+	compress
+	delaycompress
+	notifempty
+}

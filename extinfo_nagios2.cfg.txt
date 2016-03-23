@@ -1,0 +1,16 @@
+#/etc/nagios3/conf.d/extinfo_nagios2.cfg
+
+
+##
+## Extended Host and Service Information
+##
+
+define hostextinfo{
+        hostgroup_name   debian-servers
+        notes            Debian GNU/Linux servers
+#       notes_url        http://webserver.localhost.localdomain/hostinfo.pl?host=netware1
+        icon_image       base/debian.png
+        icon_image_alt   Debian GNU/Linux
+        vrml_image       debian.png
+        statusmap_image  base/debian.gd2
+        }

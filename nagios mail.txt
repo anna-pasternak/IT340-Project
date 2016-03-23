@@ -1,0 +1,319 @@
+From MAILER-DAEMON  Thu Mar 10 20:52:11 2016
+Return-Path: <>
+X-Original-To: nagios@ajp5j9-VirtualBox
+Delivered-To: nagios@ajp5j9-VirtualBox
+Received: by ajp5j9-VirtualBox (Postfix)
+	id 9075A2C2656; Thu, 10 Mar 2016 20:52:10 -0500 (EST)
+Date: Thu, 10 Mar 2016 20:52:10 -0500 (EST)
+From: MAILER-DAEMON@ajp5j9-VirtualBox (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: nagios@ajp5j9-VirtualBox
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="EA9D02C2CE9.1457661130/ajp5j9-VirtualBox"
+Message-Id: <20160311015210.9075A2C2656@ajp5j9-VirtualBox>
+
+This is a MIME-encapsulated message.
+
+--EA9D02C2CE9.1457661130/ajp5j9-VirtualBox
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host ajp5j9-VirtualBox.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<ajp59@njit.edu>: njit.edu
+
+--EA9D02C2CE9.1457661130/ajp5j9-VirtualBox
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; ajp5j9-VirtualBox
+X-Postfix-Queue-ID: EA9D02C2CE9
+X-Postfix-Sender: rfc822; nagios@ajp5j9-VirtualBox
+Arrival-Date: Thu, 10 Mar 2016 20:52:07 -0500 (EST)
+
+Final-Recipient: rfc822; ajp59@njit.edu
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; njit.edu
+
+--EA9D02C2CE9.1457661130/ajp5j9-VirtualBox
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <nagios@ajp5j9-VirtualBox>
+Received: by ajp5j9-VirtualBox (Postfix, from userid 118)
+	id EA9D02C2CE9; Thu, 10 Mar 2016 20:52:07 -0500 (EST)
+To: ajp59@njit.edu
+Subject: ** PROBLEM Service Alert: localhost/Current Load is WARNING **
+Message-Id: <20160311015207.EA9D02C2CE9@ajp5j9-VirtualBox>
+Date: Thu, 10 Mar 2016 20:52:07 -0500 (EST)
+From: nagios@ajp5j9-VirtualBox
+
+***** Nagios *****
+
+Notification Type: PROBLEM
+
+Service: Current Load
+Host: localhost
+Address: 127.0.0.1
+State: WARNING
+
+Date/Time: Thu Mar 10 20:52:06 EST 2016
+
+Additional Info:
+
+WARNING - load average: 3.93, 4.13, 2.76
+
+--EA9D02C2CE9.1457661130/ajp5j9-VirtualBox--
+
+From MAILER-DAEMON  Thu Mar 10 20:57:20 2016
+Return-Path: <>
+X-Original-To: nagios@ajp5j9-VirtualBox
+Delivered-To: nagios@ajp5j9-VirtualBox
+Received: by ajp5j9-VirtualBox (Postfix)
+	id 1BBC32C2CE9; Thu, 10 Mar 2016 20:57:20 -0500 (EST)
+Date: Thu, 10 Mar 2016 20:57:20 -0500 (EST)
+From: MAILER-DAEMON@ajp5j9-VirtualBox (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: nagios@ajp5j9-VirtualBox
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="8DB822C2CBD.1457661440/ajp5j9-VirtualBox"
+Message-Id: <20160311015720.1BBC32C2CE9@ajp5j9-VirtualBox>
+
+This is a MIME-encapsulated message.
+
+--8DB822C2CBD.1457661440/ajp5j9-VirtualBox
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host ajp5j9-VirtualBox.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<ajp59@njit.edu>: njit.edu
+
+--8DB822C2CBD.1457661440/ajp5j9-VirtualBox
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; ajp5j9-VirtualBox
+X-Postfix-Queue-ID: 8DB822C2CBD
+X-Postfix-Sender: rfc822; nagios@ajp5j9-VirtualBox
+Arrival-Date: Thu, 10 Mar 2016 20:57:16 -0500 (EST)
+
+Final-Recipient: rfc822; ajp59@njit.edu
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; njit.edu
+
+--8DB822C2CBD.1457661440/ajp5j9-VirtualBox
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <nagios@ajp5j9-VirtualBox>
+Received: by ajp5j9-VirtualBox (Postfix, from userid 118)
+	id 8DB822C2CBD; Thu, 10 Mar 2016 20:57:16 -0500 (EST)
+To: ajp59@njit.edu
+Subject: ** RECOVERY Service Alert: localhost/Current Load is OK **
+Message-Id: <20160311015717.8DB822C2CBD@ajp5j9-VirtualBox>
+Date: Thu, 10 Mar 2016 20:57:16 -0500 (EST)
+From: nagios@ajp5j9-VirtualBox
+
+***** Nagios *****
+
+Notification Type: RECOVERY
+
+Service: Current Load
+Host: localhost
+Address: 127.0.0.1
+State: OK
+
+Date/Time: Thu Mar 10 20:57:16 EST 2016
+
+Additional Info:
+
+OK - load average: 0.65, 2.03, 2.24
+
+--8DB822C2CBD.1457661440/ajp5j9-VirtualBox--
+
+From MAILER-DAEMON  Thu Mar 10 21:32:50 2016
+Return-Path: <>
+X-Original-To: nagios@ajp5j9-VirtualBox
+Delivered-To: nagios@ajp5j9-VirtualBox
+Received: by ajp5j9-VirtualBox (Postfix)
+	id AE5EA2C33A6; Thu, 10 Mar 2016 21:32:49 -0500 (EST)
+Date: Thu, 10 Mar 2016 21:32:49 -0500 (EST)
+From: MAILER-DAEMON@ajp5j9-VirtualBox (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: nagios@ajp5j9-VirtualBox
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="7AFFD2C33AC.1457663569/ajp5j9-VirtualBox"
+Message-Id: <20160311023249.AE5EA2C33A6@ajp5j9-VirtualBox>
+
+This is a MIME-encapsulated message.
+
+--7AFFD2C33AC.1457663569/ajp5j9-VirtualBox
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host ajp5j9-VirtualBox.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<ajp59@njit.edu>: njit.edu
+
+--7AFFD2C33AC.1457663569/ajp5j9-VirtualBox
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; ajp5j9-VirtualBox
+X-Postfix-Queue-ID: 7AFFD2C33AC
+X-Postfix-Sender: rfc822; nagios@ajp5j9-VirtualBox
+Arrival-Date: Thu, 10 Mar 2016 21:32:46 -0500 (EST)
+
+Final-Recipient: rfc822; ajp59@njit.edu
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; njit.edu
+
+--7AFFD2C33AC.1457663569/ajp5j9-VirtualBox
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <nagios@ajp5j9-VirtualBox>
+Received: by ajp5j9-VirtualBox (Postfix, from userid 118)
+	id 7AFFD2C33AC; Thu, 10 Mar 2016 21:32:46 -0500 (EST)
+To: ajp59@njit.edu
+Subject: ** PROBLEM Service Alert: localhost/Current Load is WARNING **
+Message-Id: <20160311023247.7AFFD2C33AC@ajp5j9-VirtualBox>
+Date: Thu, 10 Mar 2016 21:32:46 -0500 (EST)
+From: nagios@ajp5j9-VirtualBox
+
+***** Nagios *****
+
+Notification Type: PROBLEM
+
+Service: Current Load
+Host: localhost
+Address: 127.0.0.1
+State: WARNING
+
+Date/Time: Thu Mar 10 21:32:46 EST 2016
+
+Additional Info:
+
+WARNING - load average: 6.46, 5.02, 2.27
+
+--7AFFD2C33AC.1457663569/ajp5j9-VirtualBox--
+
+From MAILER-DAEMON  Thu Mar 10 22:48:40 2016
+Return-Path: <>
+X-Original-To: nagios@ajp5j9-VirtualBox
+Delivered-To: nagios@ajp5j9-VirtualBox
+Received: by ajp5j9-VirtualBox (Postfix)
+	id 80CD32C26EE; Thu, 10 Mar 2016 22:48:38 -0500 (EST)
+Date: Thu, 10 Mar 2016 22:48:38 -0500 (EST)
+From: MAILER-DAEMON@ajp5j9-VirtualBox (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: nagios@ajp5j9-VirtualBox
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="8F5C02C26EF.1457668118/ajp5j9-VirtualBox"
+Message-Id: <20160311034838.80CD32C26EE@ajp5j9-VirtualBox>
+
+This is a MIME-encapsulated message.
+
+--8F5C02C26EF.1457668118/ajp5j9-VirtualBox
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host ajp5j9-VirtualBox.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<ajp59@njit.edu>: njit.edu
+
+--8F5C02C26EF.1457668118/ajp5j9-VirtualBox
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; ajp5j9-VirtualBox
+X-Postfix-Queue-ID: 8F5C02C26EF
+X-Postfix-Sender: rfc822; nagios@ajp5j9-VirtualBox
+Arrival-Date: Thu, 10 Mar 2016 22:48:31 -0500 (EST)
+
+Final-Recipient: rfc822; ajp59@njit.edu
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; njit.edu
+
+--8F5C02C26EF.1457668118/ajp5j9-VirtualBox
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <nagios@ajp5j9-VirtualBox>
+Received: by ajp5j9-VirtualBox (Postfix, from userid 118)
+	id 8F5C02C26EF; Thu, 10 Mar 2016 22:48:31 -0500 (EST)
+To: ajp59@njit.edu
+Subject: ** PROBLEM Service Alert: localhost/Check RAM is UNKNOWN **
+Message-Id: <20160311034832.8F5C02C26EF@ajp5j9-VirtualBox>
+Date: Thu, 10 Mar 2016 22:48:31 -0500 (EST)
+From: nagios@ajp5j9-VirtualBox
+
+***** Nagios *****
+
+Notification Type: PROBLEM
+
+Service: Check RAM
+Host: localhost
+Address: 127.0.0.1
+State: UNKNOWN
+
+Date/Time: Thu Mar 10 22:48:28 EST 2016
+
+Additional Info:
+
+(No output returned from plugin)
+
+--8F5C02C26EF.1457668118/ajp5j9-VirtualBox--
