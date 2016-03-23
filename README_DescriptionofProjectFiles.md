@@ -1,5 +1,4 @@
-# it340
-# IT340-web-server
+#IT340-web-server
 #Apache - sited-enabled file, index.html, hosts.txt
 #WordPress Config Files
 #nagios mail.txt = set up for snmp
