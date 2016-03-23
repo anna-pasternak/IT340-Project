@@ -1,4 +1,4 @@
-#/etc/logrotation.d/nagios
+#/etc/logrotate.d/nagios
 
 
 
