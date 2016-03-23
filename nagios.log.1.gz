@@ -1,0 +1,24 @@
+[1458446400] LOG ROTATION: DAILY
+[1458446400] LOG VERSION: 2.0
+[1458446400] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.89 ms
+[1458446400] CURRENT SERVICE STATE: localhost;Check RAM;UNKNOWN;HARD;4;CHECK_NRPE: Received 0 bytes from daemon.  Check the remote server logs for error messages.
+[1458446400] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.73, 0.50, 0.45
+[1458446400] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 2 users currently logged in
+[1458446400] CURRENT SERVICE STATE: localhost;Disk Space;CRITICAL;HARD;4;DISK CRITICAL - /run/user/1000/gvfs is not accessible: Permission denied
+[1458446400] CURRENT SERVICE STATE: localhost;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 10295 bytes in 0.596 second response time
+[1458446400] CURRENT SERVICE STATE: localhost;SSH;CRITICAL;HARD;4;Connection refused
+[1458446400] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 186 processes
+[1458447191] Auto-save of retention data completed successfully.
+[1458450791] Auto-save of retention data completed successfully.
+[1458452341] SERVICE ALERT: localhost;HTTP;CRITICAL;SOFT;1;HTTP CRITICAL: HTTP/1.1 500 Internal Server Error - 585 bytes in 0.172 second response time
+[1458452361] Caught SIGTERM, shutting down...
+[1458452361] Successfully shutdown... (PID=8338)
+[1458572599] Nagios 3.5.1 starting... (PID=1544)
+[1458572599] Local time is Mon Mar 21 11:03:19 EDT 2016
+[1458572599] LOG VERSION: 2.0
+[1458572599] Finished daemonizing... (New PID=1559)
+[1458572819] SERVICE ALERT: localhost;HTTP;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 10295 bytes in 4.834 second response time
+[1458736197] Warning: A system time change of 1d 21h 10m 5s (forwards in time) has been detected.  Compensating...
+[1458736117] Warning: A system time change of 0d 0h 2m 0s (backwards in time) has been detected.  Compensating...
+[1458738684] Auto-save of retention data completed successfully.
+[1458742566] Warning: A system time change of 0d 0h 33m 57s (forwards in time) has been detected.  Compensating...
